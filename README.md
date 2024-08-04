@@ -13,5 +13,14 @@ The **EV Charging Network Management Platform** is a backend solution designed t
 - **Notifications**: Send alerts and updates to users.
 - **Administration**: Manage platform settings and user roles.
 
-## Project Structure
+
+## Prerequisites
+
+- **Node.js**: v18 or later
+- **Docker** and **Docker Compose**: For containerization and orchestration
+- **MongoDB**: For general data storage
+- **InfluxDB**: For time-series data
+- **Redis** (Optional): For caching and session management
+- **RabbitMQ** or **Kafka** (Optional): For message queuing
+- **Swagger**: For API documentation
 
